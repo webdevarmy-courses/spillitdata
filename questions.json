@@ -1,6 +1,4 @@
-// /constants/questions.js
-
-export const DATA = {
+{
   Fun: {
     categories: ["Jokes", "Trivia", "Party", "Games", "Would You Rather"],
     categoryDetails: {
